@@ -1,0 +1,1 @@
+Redirects from https://sdk.stackoverflowteams.com/ to https://sdk.stackoverflow.help/ using JS and/or a HTML meta tag.
